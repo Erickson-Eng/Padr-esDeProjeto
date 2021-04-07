@@ -6,8 +6,11 @@ public class Teste {
         janela.desenhar();
         janela = new JanelaAviso(new JanelaLinux());
         janela.desenhar();
-
+        System.out.println("------------------------------------------------------------------------------------------------------");
         janela = new JanelaDialogo(new JanelaWindows());
+        janela.desenhar();
+        System.out.println("------------------------------------------------------------------------------------------------------");
+        janela = new JanelaDownload(new JanelaAndroid());
         janela.desenhar();
     }
 }
