@@ -1,16 +1,33 @@
-# Estudo de Padrões de projeto
+# Design Patterns
 
-## Padrões de projeto estruturais
-
-Neste repositório você terá acesso aos seguintes padrões de projeto
+## Structural Patterns
 
  - [Composite](https://github.com/Erickson-Eng/PadroesDeProjeto/tree/main/out/production/Padr%C3%B5esDeProjeto/br/com/ifpb/Composite)
  - [Adapter](https://github.com/Erickson-Eng/PadroesDeProjeto/tree/main/out/production/Padr%C3%B5esDeProjeto/br/com/ifpb/adapter)
  - [Bridge](https://github.com/Erickson-Eng/PadroesDeProjeto/tree/main/out/production/Padr%C3%B5esDeProjeto/br/com/ifpb/bridge)
  - [Facade](https://github.com/Erickson-Eng/PadroesDeProjeto/tree/main/out/production/Padr%C3%B5esDeProjeto/br/com/ifpb/facade)
+ - [Flyweight]
+ - [Decorator]
+ - [Proxy]
 
-**Outros padrões estruturais ainda não finalizados**
+## Behavioral Patterns
+- [Observer]
+- [Command]
+- [Chain of Responsibility]
+- [Iterator]
+- [Mediator]
+- [Memento]
+- [State]
+- [Strategy]
+- [Template Method]
+- [Visitor]
 
- - Flyweight
- - Decorator
- - Proxy
+## Creational Patterns
+
+- [Builder]
+- [Prototype]
+- [Singleton]
+- [Factory Method]
+- [Abstract Factory]
+
+
